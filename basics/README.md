@@ -15,3 +15,4 @@ Basic shell scripting exercises.
 - 9-firstdirdeletion: Deletes the empty directory my_first_directory from /tmp.
 - 10-back: Changes the working directory to the previous one.
 - 11-lists: Lists all files in the current directory, parent directory, and /boot in long format.
+- 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls.
