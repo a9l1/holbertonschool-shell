@@ -12,3 +12,4 @@ Basic shell scripting exercises.
 - 5-listfilesdigitonly: Lists all files in long format with numeric user and group IDs.
 - 6-firstdirectory: Creates a directory named my_first_directory inside /tmp.
 - 8-firstdelete: Deletes the file betty from /tmp/my_first_directory.
+- 9-firstdirdeletion: Deletes the empty directory my_first_directory from /tmp.
