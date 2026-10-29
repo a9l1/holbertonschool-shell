@@ -13,3 +13,4 @@ Basic shell scripting exercises.
 - 6-firstdirectory: Creates a directory named my_first_directory inside /tmp.
 - 8-firstdelete: Deletes the file betty from /tmp/my_first_directory.
 - 9-firstdirdeletion: Deletes the empty directory my_first_directory from /tmp.
+- 10-back: Changes the working directory to the previous one.
