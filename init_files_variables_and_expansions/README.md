@@ -1,2 +1,3 @@
 - 0-alias: Creates an ls alias that removes non-hidden files.
 - 2-path: Appends /action to the PATH environment variable.
+- 3-paths: Counts the non-empty directory entries in the PATH variable.
