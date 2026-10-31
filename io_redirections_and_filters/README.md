@@ -6,3 +6,4 @@
 - 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
 - 4-lastlines: Displays the last 10 lines of /etc/passwd.
 - 5-firstlines: Displays the first 10 lines of /etc/passwd.
+- 7-file: Creates a file with a special-character name containing Best School.
