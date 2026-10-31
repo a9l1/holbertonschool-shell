@@ -3,3 +3,4 @@
 - 3-paths: Counts the non-empty directory entries in the PATH variable.
 - 4-global_variables: Lists all environment variables.
 - 5-local_variables: Lists local variables, environment variables, and shell functions.
+- 7-create_global_variable: Creates and exports BEST with the value School.
