@@ -17,3 +17,5 @@
 - 16-whatsnext: Displays lines containing root and the three following lines from /etc/passwd.
 - 18-letteronly: Displays lines starting with an uppercase or lowercase letter from /etc/ssh/sshd_config.
 - 19-AZ: Replaces A with Z and c with e from standard input.
+- 20-hiago: Removes all lowercase c and uppercase C characters from standard input.
+- 21-reverse: Reverses the characters of each input line.
