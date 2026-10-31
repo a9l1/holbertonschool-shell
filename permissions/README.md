@@ -13,3 +13,4 @@ This project covers Linux users, groups, and file permissions.
 - 7-everybody: Adds execute permission to all users for the file hello.
 - 8-James_Bond: Sets the permissions of hello to 007.
 - 9-John_Doe: Sets the permissions of hello to 753.
+- 10-mirror_permissions: Copies the permissions of olleh to hello.
