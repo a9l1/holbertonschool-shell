@@ -15,3 +15,4 @@
 - 13-unique: Displays sorted words that appear exactly once in the input.
 - 14-findthatword: Displays lines containing the pattern root from /etc/passwd.
 - 16-whatsnext: Displays lines containing root and the three following lines from /etc/passwd.
+- 18-letteronly: Displays lines starting with an uppercase or lowercase letter from /etc/ssh/sshd_config.
