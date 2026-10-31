@@ -16,3 +16,4 @@ This project covers Linux users, groups, and file permissions.
 - 10-mirror_permissions: Copies the permissions of olleh to hello.
 - 11-directories_permissions: Adds execute permission to all immediate subdirectories without changing regular files.
 - 12-directory_permissions: Creates my_dir with permissions 751.
+- 14-change_owner_and_group: Changes the owner to vincent and group to staff for all files and directories in the working directory.
