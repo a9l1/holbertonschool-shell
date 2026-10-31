@@ -13,3 +13,4 @@
 - 11-directories: Counts all directories and subdirectories, including hidden ones, excluding the current directory.
 - 12-newest_files: Displays the 10 newest entries in the current directory, sorted from newest to oldest.
 - 13-unique: Displays sorted words that appear exactly once in the input.
+- 14-findthatword: Displays lines containing the pattern root from /etc/passwd.
