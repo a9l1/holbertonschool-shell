@@ -8,3 +8,4 @@ This project covers Linux users, groups, and file permissions.
 - 1-who_am_i: Prints the effective username of the current user.
 - 2-groups: Prints all groups the current user belongs to.
 - 4-empty: Creates an empty file named hello.
+- 5-execute: Adds execute permission to the owner of hello.
