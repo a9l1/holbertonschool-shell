@@ -4,3 +4,4 @@
 - 4-global_variables: Lists all environment variables.
 - 5-local_variables: Lists local variables, environment variables, and shell functions.
 - 7-create_global_variable: Creates and exports BEST with the value School.
+- 8-true_knowledge: Prints 128 plus the value of TRUEKNOWLEDGE.
