@@ -9,3 +9,4 @@
 - 10-love_exponent_breath: Calculates BREATH raised to the power of LOVE.
 - 11-binary_to_decimal: Converts a binary number to decimal.
 - 12-combinations: Prints all two-letter combinations except oo.
+- 13-print_float: Prints NUM formatted to two decimal places.
