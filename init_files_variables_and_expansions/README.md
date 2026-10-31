@@ -1,0 +1,1 @@
+- 0-alias: Creates an ls alias that removes non-hidden files.
